@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SQLiteDemo02</string>
+    <string name="desc_logo">logo programming</string>
+    <string name="desc_title">Mobile Programming</string>
+    <string name="year">2019</string>
+</resources>
